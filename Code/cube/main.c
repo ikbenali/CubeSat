@@ -6,8 +6,10 @@
 
  * Created: 16-1-2017 14:58:50
 
- * Author : Enes_Eryigit
-
+ * Author : Enes_Eryigit & Ali Ul Haq
+ * References: 
+ 	- http://dolman-wim.nl/
+	- http://davidegironi.blogspot.nl/2013/02/avr-atmega-mpu6050-gyroscope-and.html
  */
 
 
