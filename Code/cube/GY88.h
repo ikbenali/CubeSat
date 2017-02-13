@@ -1,16 +1,8 @@
 /*
-MPU6050 lib 0x02
-
-copyright (c) Davide Gironi, 2012
-
-Released under GPLv3.
-Please refer to LICENSE file for licensing information.
-
-References:
+ GY88.h
+ References:
   - most of the code is a port of the arduino mpu6050 library by Jeff Rowberg
     https://github.com/jrowberg/i2cdevlib
-  - Mahony complementary filter for attitude estimation
-    http://www.x-io.co.uk
 */
 
 
